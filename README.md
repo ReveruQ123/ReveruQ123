@@ -19,7 +19,7 @@
 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="max-width: 100%;"> C++
 
-Thats it.
+That's it.
 
 <h2>🖥 Programs i using :</h2>
 
