@@ -19,6 +19,8 @@
 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="max-width: 100%;"> C++
 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="max-width: 100%;"> GDScript
+
 That's it.
 
 <h2>🖥 Programs i using :</h2>
