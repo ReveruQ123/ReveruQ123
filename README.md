@@ -23,7 +23,7 @@
 
 That's it.
 
-<h2>🖥 Programs i using :</h2>
+<h2>🖥 Programs I'm using :</h2>
 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="max-width: 100%;"> Godot
 
