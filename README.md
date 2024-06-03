@@ -13,7 +13,7 @@
 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;"> JAVASCRIPT
 
-<img width="30px" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width: 100%;"> C#
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width: 100%;"> C#
 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;"> MYSQL
 
